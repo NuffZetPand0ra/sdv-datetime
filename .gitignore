@@ -1,0 +1,4 @@
+vendor/
+.phpunit*
+.vscode
+composer.lock
